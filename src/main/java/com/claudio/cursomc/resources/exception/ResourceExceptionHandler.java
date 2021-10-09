@@ -1,4 +1,4 @@
-package com.claudio.cursomc.resources.exeption;
+package com.claudio.cursomc.resources.exception;
 
 import javax.servlet.http.HttpServletRequest;
 
