@@ -1,4 +1,4 @@
-package com.claudio.cursomc.services;
+package com.claudio.cursomc.services.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 
